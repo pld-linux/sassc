@@ -1,13 +1,13 @@
 Summary:	Wrapper around libsass to compile CSS stylesheet
 Summary(pl.UTF-8):	Program obudowujący libsass do kompilowania arkuszy styli CSS
 Name:		sassc
-Version:	3.6.0
+Version:	3.6.2
 Release:	1
 License:	MIT
 Group:		Development/Tools
 #Source0Download: https://github.com/sass/sassc/releases
 Source0:	https://github.com/sass/sassc/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	c8b53f92b61e8485f75552aece8879fc
+# Source0-md5:	4c3b06ce2979f2a9f0a35093e501d8bb
 URL:		https://github.com/sass/sassc
 BuildRequires:	autoconf >= 2.61
 BuildRequires:	automake
